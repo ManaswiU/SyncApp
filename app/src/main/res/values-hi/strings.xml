@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_name">नाम दर्ज करना</string>
+    <string name="enter_password">पासवर्ड दर्ज करें</string>
+    <string name="message">एंड्रॉइड में आपका स्वागत है</string>
+</resources>
